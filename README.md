@@ -30,3 +30,5 @@
 <div align="center">
 <img height="180em" src="https://github.com/Maarckz/Output/blob/main/github-contribution-grid-snake.svg"/>
 </div>
+ 
+If you like it, do fork 🍴 and star ⭐
