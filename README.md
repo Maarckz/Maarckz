@@ -23,7 +23,8 @@
   
 <div align="center">
 <a href="https://github.com/maarckz">
-<img height="100em" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&margin-w=15&margin-h=15"/> 
+<img height="100em" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&margin-w=15&margin-h=15"/>
+</a>
 </div>
   
   
