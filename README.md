@@ -1,5 +1,5 @@
 <div align="center">
-<h2>👋 Olá, i’m @Maarckz 🤓</h2>
+<h1>👋 Olá, i’m @Maarckz 🤓</h1>
 </div>
 
 <div align="left">
@@ -7,14 +7,13 @@
 📚 I&rsquo;m currently learning <strong>Cyber Defense</strong> and <strong>Ethical Hacking</strong><br />
 📫 How to reach me: <u><span style="background-color:#00FF00">127.0.0.1:443</span></u></span></p>
 </div>
-
 <div align="center">
 <a href="https://github.com/maarckz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maarckz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarckz&theme=dark&layout=compact)"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maarckz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
 </div>
 
  
-<div> 
+<div align="center"> 
 <a href="https://instagram.com/maarckz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>    
 <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>    
 <a href="t.me/+TY7xggCdcxOluXzo" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
@@ -24,7 +23,7 @@
   
   
 <div align="center">
-<img height="160em" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&margin-w=15&margin-h=15"/> 
+<img height="100em" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&margin-w=15&margin-h=15"/> 
 </div>
   
   
