@@ -1,8 +1,13 @@
-## 👋 Olá, i’m @Maarckz 🤓
+<div align="center">
+<h1>👋 Olá, i’m @Maarckz 🤓</h1>
+</div>
 
-💻 I’m interested in Hacking, Penetration testing and 3D Print.
-📚 I’m currently learning Cyber Defense and Ethical Hacking.
-📫 How to reach me: 127.0.0.1:443
+<div align="left">
+<p><span style="font-family:verdana,geneva,sans-serif">💻 I&rsquo;m interested in <span style="color:#FF0000"><em>Hacking</em></span>, <span style="color:#0000FF"><em>Penetration</em></span> testing and <span style="color:#FFFF00"><em>3D Print</em></span><br />
+📚 I&rsquo;m currently learning <strong>Cyber Defense</strong> and <strong>Ethical Hacking</strong><br />
+📫 How to reach me: <u><span style="background-color:#00FF00">127.0.0.1:443</span></u></span></p>
+</div>
+
 
 
 <div align="center">
@@ -12,7 +17,7 @@
 
 <div align="center">
 <a href="https://github.com/maarckz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maarckz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarckz&theme=dark&layout=compact)"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=maarckz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarckz&theme=dark&layout=compact)"/>
 
 
   
