@@ -30,4 +30,4 @@
 
 <div align="center">
 <p><span style="font-family:verdana,geneva,sans-serif">If you like it, do  <span style="color:#FF0000"><em>fork</em></span> 🍴 and <span style="color:#FF0000"><em>star</em></span> ⭐</span><br />
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
