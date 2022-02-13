@@ -31,5 +31,5 @@
 <div align="center">
 <p><span style="font-family:verdana,geneva,sans-serif">If you like it, do  <span style="color:#FF0000"><em>fork</em></span> 🍴 and <span style="color:#FF0000"><em>star</em></span> ⭐</span><br />
 <div align="center">
-   <img src="https://assets.tryhackme.com/img/thm_logo_only.svg" alt="TryHackMe"> 
+   <img src="https://tryhackme-badges.s3.amazonaws.com/SH1N003.png" alt="TryHackMe">
 </div>
