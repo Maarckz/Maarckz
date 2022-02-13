@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maarckz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://tryhackme.com/badge/239243"/> 
 </div>
 
 <div align="center">
