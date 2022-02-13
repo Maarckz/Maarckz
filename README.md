@@ -5,7 +5,6 @@
 📚 I&rsquo;m currently learning <strong>Cyber Defense</strong> and <strong>Ethical Hacking</strong><br />
 📫 How to reach me: <u><span style="background-color:#00FF00">127.0.0.1:443</span></u></span></p>
 </div>
-
 <div align="center">
    <img src="https://tryhackme-badges.s3.amazonaws.com/SH1N003.png" alt="TryHackMe"> 
 </div>
