@@ -33,3 +33,13 @@
 
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="marcus-dealmeida" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/marcus-dealmeida?trk=profile-badge">Marcus de Almeida</a></div>
               
+<html lang="pt-br">
+  <head>
+  	<meta charset="utf-8">
+  	<title>Começando com JavaScript</title>
+  </head>
+  <body>
+  	<h2>Começando com JavaScript</h2>
+	<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  </body>
+</html>
