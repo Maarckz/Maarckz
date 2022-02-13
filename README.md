@@ -5,9 +5,6 @@
 📚 I&rsquo;m currently learning <strong>Cyber Defense</strong> and <strong>Ethical Hacking</strong><br />
 📫 How to reach me: <u><span style="background-color:#00FF00">127.0.0.1:443</span></u></span></p>
 </div>
-<div align="center">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/SH1N003.png" alt="TryHackMe"> 
-</div>
 
 <div align="center">
   <a href="https://github.com/maarckz">
@@ -33,3 +30,6 @@
 
 <div align="center">
 <p><span style="font-family:verdana,geneva,sans-serif">If you like it, do  <span style="color:#FF0000"><em>fork</em></span> 🍴 and <span style="color:#FF0000"><em>star</em></span> ⭐</span><br />
+<div align="center">
+   <img src="https://tryhackme-badges.s3.amazonaws.com/SH1N003.png" alt="TryHackMe"> 
+</div>
