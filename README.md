@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://tryhackme.com/badge/239243"/> 
+   <img src="https://tryhackme-badges.s3.amazonaws.com/SH1N003.png" alt="TryHackMe"> 
 </div>
 
 <div align="center">
