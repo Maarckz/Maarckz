@@ -35,15 +35,5 @@
    <a href="https://tryhackme.com/p/SH1N003">
    <img src="https://tryhackme-badges.s3.amazonaws.com/SH1N003.png" alt="TryHackMe">
 </div>
-  
-<html lang="en-US">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Today's Date</title>
-</head>
-<body>
-   <script src="https://tryhackme.com/badge/239243"></script>
-</body> 
-</html>
+
 
