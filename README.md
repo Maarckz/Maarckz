@@ -15,7 +15,7 @@
   <a href="https://instagram.com/maarckz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>    
   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>    
   <a href="https://t.me/+TY7xggCdcxOluXzo" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/marcus-dealmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <div align="center">
@@ -35,3 +35,15 @@
    <a href="https://tryhackme.com/p/SH1N003">
    <img src="https://tryhackme-badges.s3.amazonaws.com/SH1N003.png" alt="TryHackMe">
 </div>
+  
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Today's Date</title>
+</head>
+<body>
+   <script src="https://tryhackme.com/badge/239243"></script>
+</body> 
+</html>
+
