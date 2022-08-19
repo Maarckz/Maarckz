@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/maarckz" target="_blank"><img  src="https://github-readme-stats.vercel.app/api?username=maarckz&show_icons=true&theme=dark&  include_all_commits=true&count_private=true"/> 
+  <a href="https://github.com/maarckz" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=maarckz&show_icons=true&theme=dark&  include_all_commits=true&count_private=true"/> 
 </div>
 
 <div align="center"> 
@@ -32,7 +32,7 @@
 
 <div align="center">
    <a href="https://tryhackme.com/p/SH1N003">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/SH1N003.png?3" alt="TryHackMe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/SH1N003.png" alt="TryHackMe">
 </div>
 
 
