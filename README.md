@@ -1,6 +1,10 @@
 [//]: # "[![Maarckz]([YOURLINKHERE)](https://github.com/maarckz)"
 
 <div align="center">
+<img height="180em" src="https://github.com/Maarckz/Output/blob/main/github-contribution-grid-snake.svg"/>
+</div>
+
+<div align="center">
 <p><span style="font-family:verdana,geneva,sans-serif">💻 I&rsquo;m interested in <span style="color:#FF0000"><em>Hacking</em></span>, <span style="color:#0000FF"><em>Penetration</em></span> testing and <span style="color:#FFFF00"><em>3D Print</em></span><br />
 📚 I&rsquo;m currently learning <strong>Cyber Defense</strong> and <strong>Ethical Hacking</strong><br />
 📫 How to reach me: <u><span style="background-color:#00FF00">127.0.0.1:443</span></u></span></p>
@@ -23,9 +27,6 @@
 </a>
 </div>
   
-<div align="center">
-<img height="180em" src="https://github.com/Maarckz/Output/blob/main/github-contribution-grid-snake.svg"/>
-</div>
 
 <div align="center">
 <p><span style="font-family:verdana,geneva,sans-serif">If you like it, do  <span style="color:#FF0000"><em>fork</em></span> 🍴 and <span style="color:#FF0000"><em>star</em></span> ⭐</span><br />
