@@ -29,9 +29,3 @@
      <img src="https://tryhackme-badges.s3.amazonaws.com/Maarckz.png" alt="TryHackMe">
 </div>
 
-<div align="center">
-<a href="https://github.com/maarckz">
-<img height="70em" src="https://github-profile-trophy.vercel.app/?username=maarckz&column=6&margin-w=15&margin-h=15"/>
-</a>
-</div>
-
