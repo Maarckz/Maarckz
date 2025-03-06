@@ -7,7 +7,6 @@
 </div> 
 
 <div align="center">
-  <a href="https://github.com/maarckz" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=maarckz&show_icons=true&theme=dark&%20%20include_all_commits=true&count_private=false"/></a> 
   <a href="https://github.com/maarckz" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarckz&show_icons=true&theme=dark&%20%20include_all_commits=true&count_private=false&layout=compact"/></a> 
 </div>
 
