@@ -15,7 +15,7 @@
   ☁️ <strong>Cloud Security Professional</strong> - <em>UNESA</em><br>
   🕵️ <strong>Threat Intelligence Analyst</strong> - <em>ArcX</em><br>
   ⚙️ <strong>Hacking e Pentest 2.0</strong> - <em>SOLYD</em><br>
-  🏆 <strong>Top 1%</strong>, na plataforma, <strong>TryHackMe</strong>, <em>+30 badges own</em><br>
+  🏆 <strong>Top 1%</strong>, na plataforma, <strong>TryHackMe</strong>, <em>+32 badges own</em><br>
 </ul>
 </div>
 
