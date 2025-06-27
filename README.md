@@ -9,8 +9,8 @@
 <div align="center">
 <h2>🏅 <strong>Certificações:</strong></h2>
 <ul>
-  🤖 <strong>Threating Hunting</strong> - <em>Facincit v2025</em><br>
-  🧠 <strong>Cyber Threat Intelligence</strong> - <em>Vincit v2024</em><br>
+  🤖 <strong>Ethical Hacking</strong> - <em>Facincit v2025</em><br>
+  🧠 <strong>Cyber Threat Intelligence and Hunting</strong> - <em>Vincit v2024</em><br>
   🧑‍💻 <strong>SYCP</strong> - <em>Pentest Professional v2021 - SOLYD</em><br>
   📶 <strong>SWCP</strong> - <em>Wifi Hacking v2023 - SOLYD</em><br>
   🔐 <strong>Pro-Security</strong> (<em>TryHackMe</em>)<br>
