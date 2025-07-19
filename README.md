@@ -1,8 +1,29 @@
 [//]: # "[![Maarckz]([YOURLINKHERE)](https://github.com/maarckz)"
 
-<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap" rel="stylesheet">
-<h1 style="font-family: 'Orbitron', sans-serif; font-weight: 700; font-size: 4rem; background: linear-gradient(90deg, #FF2D95, #00CFFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-transform: uppercase; letter-spacing: 0.15em; margin:0;">Marcus de Almeida</h1>
 
+<svg width="600" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marcus de Almeida">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF2D95" />
+      <stop offset="100%" stop-color="#00CFFF" />
+    </linearGradient>
+    <style>
+      <![CDATA[
+        @import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
+        .megrim {
+          font-family: 'Megrim', system-ui, sans-serif;
+          font-weight: 400;
+          font-style: normal;
+          font-size: 72px;
+          letter-spacing: 0.1em;
+        }
+      ]]>
+    </style>
+  </defs>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" fill="url(#grad)" class="megrim">
+    Marcus de Almeida
+  </text>
+</svg>
 
 <div align="center">
 <img height="180em" src="https://github.com/Maarckz/Maarckz/blob/main/Images/github-contribution-grid-snake.svg"/>
