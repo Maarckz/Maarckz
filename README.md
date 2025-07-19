@@ -27,54 +27,23 @@
 
 
 <div align="center">
-  <h2>🎓 <strong>Formação Acadêmica:</strong></h2>
   <ul style="list-style-type:none; padding-left:0;">
     <strong>Pós-graduação em Ethical Hacking</strong> – Faculdade VINCIT<br>
     <strong>Pós-graduação em Threat Intelligence e Hunting</strong> – Faculdade VINCIT<br>
     <strong>Bacharelado em Defesa Cibernética</strong> – Estácio<br>
-  </ul>
-</div>
-
-<div align="center">
-  <h2>🏅 <strong>Certificações:</strong></h2>
-  <ul style="list-style-type:none; padding-left:0;">
+    <strong>Pentest Profissional v2021 - SYCP</strong> – Solyd Offensive Security<br>
     <strong>Industrial Intrusion</strong> – TryHackMe<br>
-    <strong>Threat Intelligence</strong> – Faculdade VINCIT<br>
     <strong>Threat Intelligence Analyst</strong> – arcX<br>
-    <strong>Cyber Security (Ascend Partnership)</strong> – Escola Superior de Redes<br>
-    <strong>Detecção de Intrusão e Análise de Logs</strong> – Faculdade VINCIT<br>
-    <strong>Engenharia Social e Phishing</strong> – Faculdade VINCIT<br>
-    <strong>SOC Analyst Tier 2</strong> – Faculdade VINCIT<br>
+    <strong>Advanced Cyber Threat Intelligence</strong> – CYBRARY<br>
+    <strong>CYSA+ Training Course</strong> – ESR + Ascend<br>
     <strong>Segurança Defensiva e Resposta a Incidentes</strong> – Faculdade VINCIT<br>
     <strong>CyberSecurity</strong> – FIAP<br>
     <strong>Cyber Threat Management</strong> – Cisco<br>
+    <strong>Categorizing Attacks and Failure Modes</strong> – CYBRARY<br>
     <strong>Ethical Hacker</strong> – Cisco<br>
-    <strong>Information Security Analysis and Management</strong> – Estácio<br>
-    <strong>Pentest Profissional v2021 - SYCP</strong> – Solyd Offensive Security<br>
-    <strong>WiFi Hacking Enterprise 2.0</strong> – Desec Security<br>
-    <strong>Certified Cloud Security Professional</strong> – Estácio<br>
-    <strong>Pro-Security</strong> – TryHackMe<br>
-    <strong>Basics - Hacking e Pentest 2.0</strong> – Solyd Offensive Security<br>
-  </ul>
-</div>
-
-<div align="center">
-  <h2>📚 <strong>Cursos e Treinamentos:</strong></h2>
-  <ul style="list-style-type:none; padding-left:0;">
-    <strong>Advanced Cyber Threat Intelligence</strong> – ESR<br>
-    <strong>CYSA+ Training Course</strong> – ESR + Ascend<br>
-    <strong>Categorizing Attacks and Failure Modes</strong> – ESR<br>
-    <strong>Cyber Threat Intelligence – Stage</strong> – ESR<br>
-    <strong>Dark Web, Anonymity, and Cryptocurrency</strong> – Faculdade VINCIT<br>
-    <strong>Defesa Cibernética</strong> – PR<br>
-    <strong>Ethical Hacker Essentials</strong> – TryHackMe<br>
-    <strong>Hacker Ético Profissional com Kali Linux</strong> – Udemy<br>
     <strong>Maltego Advanced Course</strong> – Paterva<br>
-    <strong>Network Defense Essentials</strong> – TryHackMe<br>
-    <strong>Offensive Pentest Testing</strong> – CYBRARY<br>
-    <strong>Pentester Profissional (SYCP) v2021</strong> – Solyd Offensive Security<br>
-    <strong>Security Information EQ 101</strong> – ESR<br>
-    <strong>Técnicas de Invasão a Redes sem fio</strong> – Udemy<br>
+    <strong>Security Information EQ 101</strong> – Brazilian Navy<br>
+    <strong>WiFi Hacking Enterprise 2.0</strong> – Desec Security<br>
   </ul>
 </div>
 
