@@ -1,7 +1,7 @@
 [//]: # "[![Maarckz]([YOURLINKHERE)](https://github.com/maarckz)"
 
 <div align="center">
-<img src="https://github.com/Maarckz/Maarckz/blob/main/Images/name.png"/>
+<img src="https://github.com/Maarckz/Maarckz/blob/main/Images/shortname.png"/>
 </div>
 
 
