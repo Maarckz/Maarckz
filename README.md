@@ -21,48 +21,41 @@
   <img src="https://streak-stats.demolab.com?user=maarckz&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
   <img src="https://github-profile-trophy.vercel.app?username=maarckz&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
 </div>
-
-<h1 align="center">Marcus Almeida</h1>
-
 <div align="center">
   <h2>🎓 <strong>Formação Acadêmica:</strong></h2>
-  <ul>
+  <ul style="list-style-type:none; padding-left:0;">
     <li><strong>Pós-graduação em Ethical Hacking</strong> – Faculdade VINCIT</li>
     <li><strong>Pós-graduação em Threat Intelligence e Hunting</strong> – Faculdade VINCIT</li>
     <li><strong>Bacharelado em Defesa Cibernética</strong> – Estácio</li>
   </ul>
 </div>
 
-<hr>
-
 <div align="center">
   <h2>🏅 <strong>Certificações:</strong></h2>
-  <ul>
-    <li><strong>TryHackMe – Industrial Intrusion</strong></li>
-    <li><strong>Faculdade VINCIT – Threat Intelligence</strong></li>
-    <li><strong>arcX – Threat Intelligence Analyst</strong></li>
-    <li><strong>Escola Superior de Redes – Cyber Security (Ascend Partnership)</strong></li>
-    <li><strong>Faculdade VINCIT – Detecção de Intrusão e Análise de Logs</strong></li>
-    <li><strong>Faculdade VINCIT – Engenharia Social e Phishing</strong></li>
-    <li><strong>Faculdade VINCIT – SOC Analyst Tier 2</strong></li>
-    <li><strong>Faculdade VINCIT – Segurança Defensiva e Resposta a Incidentes</strong></li>
-    <li><strong>FIAP – CyberSecurity</strong></li>
-    <li><strong>Cisco – Cyber Threat Management</strong></li>
-    <li><strong>Cisco – Ethical Hacker</strong></li>
-    <li><strong>Estácio – Information Security Analysis and Management</strong></li>
-    <li><strong>Solyd Offensive Security – Pentest Profissional v2021 - SYCP</strong></li>
-    <li><strong>Desec Security – WiFi Hacking Enterprise 2.0</strong></li>
-    <li><strong>Estácio – Certified Cloud Security Professional</strong></li>
-    <li><strong>TryHackMe – Pro-Security</strong></li>
-    <li><strong>Solyd Offensive Security – Basics - Hacking e Pentest 2.0</strong></li>
+  <ul style="list-style-type:none; padding-left:0;">
+    <li><strong>Industrial Intrusion</strong> – TryHackMe</li>
+    <li><strong>Threat Intelligence</strong> – Faculdade VINCIT</li>
+    <li><strong>Threat Intelligence Analyst</strong> – arcX</li>
+    <li><strong>Cyber Security (Ascend Partnership)</strong> – Escola Superior de Redes</li>
+    <li><strong>Detecção de Intrusão e Análise de Logs</strong> – Faculdade VINCIT</li>
+    <li><strong>Engenharia Social e Phishing</strong> – Faculdade VINCIT</li>
+    <li><strong>SOC Analyst Tier 2</strong> – Faculdade VINCIT</li>
+    <li><strong>Segurança Defensiva e Resposta a Incidentes</strong> – Faculdade VINCIT</li>
+    <li><strong>CyberSecurity</strong> – FIAP</li>
+    <li><strong>Cyber Threat Management</strong> – Cisco</li>
+    <li><strong>Ethical Hacker</strong> – Cisco</li>
+    <li><strong>Information Security Analysis and Management</strong> – Estácio</li>
+    <li><strong>Pentest Profissional v2021 - SYCP</strong> – Solyd Offensive Security</li>
+    <li><strong>WiFi Hacking Enterprise 2.0</strong> – Desec Security</li>
+    <li><strong>Certified Cloud Security Professional</strong> – Estácio</li>
+    <li><strong>Pro-Security</strong> – TryHackMe</li>
+    <li><strong>Basics - Hacking e Pentest 2.0</strong> – Solyd Offensive Security</li>
   </ul>
 </div>
 
-<hr>
-
 <div align="center">
   <h2>📚 <strong>Cursos e Treinamentos:</strong></h2>
-  <ul>
+  <ul style="list-style-type:none; padding-left:0;">
     <li><strong>Advanced Cyber Threat Intelligence</strong> – ESR</li>
     <li><strong>CYSA+ Training Course</strong> – ESR + Ascend</li>
     <li><strong>Categorizing Attacks and Failure Modes</strong> – ESR</li>
