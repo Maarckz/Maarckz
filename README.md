@@ -1,25 +1,8 @@
 [//]: # "[![Maarckz]([YOURLINKHERE)](https://github.com/maarckz)"
 
-<div style="display:flex; gap:10px; font-family: monospace;">
-  <div style="background:#00CFFF; width:80px; height:80px; color:#000; display:flex; align-items:center; justify-content:center; flex-direction:column;">
-    Azul Neon<br>#00CFFF
-  </div>
-  <div style="background:#FF2D95; width:80px; height:80px; color:#000; display:flex; align-items:center; justify-content:center; flex-direction:column;">
-    Rosa Neon<br>#FF2D95
-  </div>
-  <div style="background:#FF3A3A; width:80px; height:80px; color:#000; display:flex; align-items:center; justify-content:center; flex-direction:column;">
-    Vermelho<br>#FF3A3A
-  </div>
-  <div style="background:#FF7B29; width:80px; height:80px; color:#000; display:flex; align-items:center; justify-content:center; flex-direction:column;">
-    Laranja<br>#FF7B29
-  </div>
-  <div style="background:#8A2BE2; width:80px; height:80px; color:#fff; display:flex; align-items:center; justify-content:center; flex-direction:column;">
-    Roxo Neon<br>#8A2BE2
-  </div>
-  <div style="background:#000000; width:80px; height:80px; color:#fff; display:flex; align-items:center; justify-content:center; flex-direction:column;">
-    Preto<br>#000000
-  </div>
-</div>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap" rel="stylesheet">
+<h1 style="font-family: 'Orbitron', sans-serif; font-weight: 700; font-size: 4rem; background: linear-gradient(90deg, #FF2D95, #00CFFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-transform: uppercase; letter-spacing: 0.15em; margin:0;">Marcus de Almeida</h1>
+
 
 <div align="center">
 <img height="180em" src="https://github.com/Maarckz/Maarckz/blob/main/Images/github-contribution-grid-snake.svg"/>
