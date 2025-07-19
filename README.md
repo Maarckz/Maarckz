@@ -19,7 +19,7 @@
 
 <div align="center">
   
-  [![](https://github-readme-activity-graph.vercel.app/graph?username=maarckz&theme=github-compact&custom_title=Contribuition&hide_border=true)](https://github.com/Maarckz)
+  [![](https://github-readme-activity-graph.vercel.app/graph?username=maarckz&theme=github-compact&custom_title=%20&hide_border=true)](https://github.com/Maarckz)
   
   <img src="https://streak-stats.demolab.com?user=maarckz&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
   <img src="https://github-profile-trophy.vercel.app?username=maarckz&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
