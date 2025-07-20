@@ -1,3 +1,4 @@
+<!-- HEADER  -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:e61c9b,100:10002B"/>
 
 
@@ -69,13 +70,6 @@
 </div>
 
 
-<!-- GRAFICO COMMITS  -->
-<div align="center">
-  
-  [![](https://github-readme-activity-graph.vercel.app/graph?username=maarckz&theme=github-compact&custom_title=%20&hide_border=true)](https://github.com/Maarckz)
-
-</div>
-
 
 <!-- BADGES  -->
 <div align="center">
@@ -85,8 +79,14 @@
 
 
 
+<!-- GRAFICO COMMITS  -->
+<div align="center">
+  
+  [![](https://github-readme-activity-graph.vercel.app/graph?username=maarckz&theme=github-compact&custom_title=%20&hide_border=true)](https://github.com/Maarckz)
+
+</div>
 
 
 
-
+<!-- FOOTER  -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
