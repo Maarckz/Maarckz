@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://github.com/Maarckz/Maarckz/blob/main/Images/shortname.png"/>
+  <img src="https://github.com/Maarckz/Maarckz/blob/main/Images/shortname.png"/>
 </div>
 
 
@@ -17,39 +17,34 @@
 
 <div align="center">
   
-<img height="180em" src="https://github.com/Maarckz/Maarckz/blob/main/Images/github-contribution-grid-snake.svg"/>
+  <img height="180em" src="https://github.com/Maarckz/Maarckz/blob/main/Images/github-contribution-grid-snake.svg"/>
 </div>
 
 
 <div align="center">
   
-[![Skills](https://skillicons.dev/icons?i=html,css,js,c,py,rust,php,graphql,mongodb,postgres,selenium,elasticsearch)]()
-[![Skills](https://skillicons.dev/icons?i=docker,nginx,git,vscode,replit,arduino,ubuntu,kali,redhat,debian,discord)]()
+  [![Skills](https://skillicons.dev/icons?i=html,css,js,c,py,rust,php,graphql,mongodb,postgres,selenium,elasticsearch)]()
+  [![Skills](https://skillicons.dev/icons?i=docker,nginx,git,vscode,replit,arduino,ubuntu,kali,redhat,debian,discord)]()
 
 </div>
 
   
-
-
 
 
 <div align="center">
   
   [![](https://github-readme-activity-graph.vercel.app/graph?username=maarckz&theme=github-compact&custom_title=%20&hide_border=true)](https://github.com/Maarckz)
-</div>
-
-
-  <div align="center">
-    
-<img height="160em" src="https://streak-stats.demolab.com?user=maarckz&theme=tokyonight&hide_border=true&locale=pt_BR" />
-</div>
-
-  
 
 </div>
 
-  <img src="https://streak-stats.demolab.com?user=maarckz&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=maarckz&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+
+<div align="center">
+
+  <img height="160em" src="https://streak-stats.demolab.com?user=Maarckz&theme=tokyonight&mode=weekly&hide_border=true&locale=pt_BR" />
+
+  <img src="https://streak-stats.demolab.com?user=Maarckz&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+  <img src="https://github-profile-trophy.vercel.app?username=Maarckz&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+
 </div>
 
 
