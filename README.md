@@ -24,6 +24,8 @@
 <div align="center">
   <img height="180em" src="https://github.com/Maarckz/Maarckz/blob/main/Images/github-contribution-grid-snake.svg"/>
 </div>
+<br>
+
 
 <!-- ICONES  -->
 <div align="center">
@@ -59,8 +61,8 @@
 
 
 <!-- TEXTO  -->
-<div align="justify">
-  <ul style="list-style-type:none; padding-left:0;">
+<div align="center">
+  <ul>
     <strong>Pós-graduação em Ethical Hacking</strong> – Faculdade VINCIT<br>
     <strong>Pós-graduação em Threat Intelligence e Hunting</strong> – Faculdade VINCIT<br>
     <strong>Bacharelado em Defesa Cibernética</strong> – Estácio<br>
