@@ -67,7 +67,7 @@
     <strong>Security Information EQ 101</strong> – Brazilian Navy<br>
     <strong>WiFi Hacking Enterprise 2.0</strong> – Desec Security<br>
   </ul>
-</div>
+
 
 
 
@@ -92,7 +92,7 @@
 | Security Information EQ 101                                 | Brazilian Navy                |
 | WiFi Hacking Enterprise 2.0                                 | Desec Security                |
 
-
+</div>
 
 <!-- BADGES  -->
 <div align="center">
