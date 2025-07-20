@@ -68,7 +68,7 @@
 | <strong>Cyber Threat Management</strong> – Cisco |
 | <strong>Categorizing Attacks and Failure Modes</strong> – CYBRARY |
 | <strong>Ethical Hacker</strong> – Cisco |
-| <strong>Maltego Advanced Course</strong> – Paterva |
+| <strong>Maltego Advanced Course</strong> – Maltego Academy |
 | <strong>Security Information EQ 101</strong> – Brazilian Navy |
 | <strong>WiFi Hacking Enterprise 2.0</strong> – Desec Security |
 
