@@ -35,7 +35,7 @@
 <div align="center">
   
   [![Skills](https://skillicons.dev/icons?i=html,css,js,c,py,rust,php,graphql,mongodb,postgres,selenium,elasticsearch)]()
-  [![Skills](https://skillicons.dev/icons?i=docker,nginx,git,vscode,replit,arduino,ubuntu,kali,redhat,debian,discord)]()
+  [![Skills](https://skillicons.dev/icons?i=docker,django,nginx,git,vscode,replit,arduino,ubuntu,kali,redhat,debian,discord)]()
 
 </div>
 
@@ -50,7 +50,6 @@
 <br>
 <div align="center">
 
-|                                                             |                             |
 |:-----------------------------------------------------------:|:---------------------------:|
 | <strong>Pós-graduação em Ethical Hacking</strong>           | Faculdade VINCIT           |
 | <strong>Pós-graduação em Threat Intelligence e Hunting</strong> | Faculdade VINCIT       |
