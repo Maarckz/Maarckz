@@ -8,6 +8,18 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maarckz&left_color=black&right_color=green" width="80" />
 </div>
 
+
+![Visitors](https://komarev.com/ghpvc/?username=maarckz&label=Visitantes&color=0e75b6&style=flat)
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
+
+<img height="160em" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&locale=pt_BR" />
+
+</div>
+
 <div align="center">
 <img height="180em" src="https://github.com/Maarckz/Maarckz/blob/main/Images/github-contribution-grid-snake.svg"/>
 </div>
