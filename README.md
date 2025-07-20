@@ -45,25 +45,8 @@
 </div>
 
 
-<!-- GRAFICO COMMITS  -->
-<div align="center">
-  
-  [![](https://github-readme-activity-graph.vercel.app/graph?username=maarckz&theme=github-compact&custom_title=%20&hide_border=true)](https://github.com/Maarckz)
-
-</div>
-
-
-<!-- BADGES  -->
-<div align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=Maarckz&theme=tokyonight&border_radius=5&mode=weekly&hide_border=true&locale=pt_BR" /><br/>
-  <img src="https://github-profile-trophy.vercel.app?username=Maarckz&theme=tokyonight&column=2&row=1&margin-w=5&margin-h=1&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
-</div>
-
-
-
-
-
 <!-- TEXTO  -->
+<br>
 <div align="center">
   <ul>
     <strong>Pós-graduação em Ethical Hacking</strong> – Faculdade VINCIT<br>
@@ -84,6 +67,27 @@
     <strong>WiFi Hacking Enterprise 2.0</strong> – Desec Security<br>
   </ul>
 </div>
+<br>
+
+
+<!-- GRAFICO COMMITS  -->
+<div align="center">
+  
+  [![](https://github-readme-activity-graph.vercel.app/graph?username=maarckz&theme=github-compact&custom_title=%20&hide_border=true)](https://github.com/Maarckz)
+
+</div>
+
+
+<!-- BADGES  -->
+<div align="center">
+  <img height="160em" src="https://streak-stats.demolab.com?user=Maarckz&theme=tokyonight&border_radius=5&mode=weekly&hide_border=true&locale=pt_BR" /><br/>
+  <img src="https://github-profile-trophy.vercel.app?username=Maarckz&theme=tokyonight&column=2&row=1&margin-w=5&margin-h=1&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
+</div>
+
+
+
+
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
