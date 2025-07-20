@@ -18,7 +18,7 @@
 
 <!-- COUNT VISITANTES -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=maarckz&label=Visitantes&color=green&style=for-the-badge" width="120" />
+  <img src="https://komarev.com/ghpvc/?username=maarckz&label=Visitantes&color=blueviolet&style=for-the-badge" width="120" />
 </div>
 
 
