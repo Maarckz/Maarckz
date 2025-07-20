@@ -51,13 +51,13 @@
 <div align="center">
 |                                                             |                             |
 |:-----------------------------------------------------------:|:---------------------------:|
-| <strong>Top 1% - CTF Player</strong>           | TryHackMe           |
+| <strong>Top 1% Global CTF Player</strong>           | TryHackMe          |
 | <strong>Pós-graduação em Ethical Hacking</strong>           | Faculdade VINCIT           |
 | <strong>Pós-graduação em Threat Intelligence e Hunting</strong> | Faculdade VINCIT       |
 | <strong>Bacharelado em Defesa Cibernética</strong>          | Estácio                    |
 | <strong>Pentest Profissional v2021 - SYCP</strong>          | Solyd Offensive Security   |
 | <strong>Industrial Intrusion</strong>                       | TryHackMe                  |
-| <strong>Threat Intelligence Analyst</strong>                | ArcX                       |
+| <strong>Threat Intelligence Analyst</strong>                | arcX                       |
 | <strong>Advanced Cyber Threat Intelligence</strong>         | CYBRARY                    |
 | <strong>CYSA+ Training Course</strong>                      | ESR + Ascend               |
 | <strong>Segurança Defensiva e Resposta a Incidentes</strong>| Faculdade VINCIT           |
@@ -67,7 +67,7 @@
 | <strong>Ethical Hacker</strong>                             | Cisco                      |
 | <strong>Maltego Advanced Course</strong>                    | Paterva                    |
 | <strong>Security Information EQ 101</strong>                | Brazilian Navy             |
-| <strong>WiFi Hacking Enterprise 2.0</strong>                | Desec Security             |
+| <strong>WiFi Hacking Enterprise 2.0</strong>                | Desec Security  
 
 </div>
 
