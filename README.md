@@ -13,15 +13,10 @@
 
 ## Tecnologias e linguagens 💻
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,c,py,rust,php,graphql,selenium,elasticsearch)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,c,py,rust,php,graphql,mongodb,postgres,selenium,elasticsearch)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=docker,nginx,mongodb,postgres,ubuntu,kali,redhat,debian,discord)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=docker,nginx,git,vscode,replit,arduino,ubuntu,kali,redhat,debian,discord)](https://skillicons.dev)
 
-
-
-## Ferramentas e programas 🛠️
-
-[![Skills](https://skillicons.dev/icons?i=git,vscode,replit,arduino)](https://skillicons.dev)
 </div>
 
 
