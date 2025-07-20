@@ -50,6 +50,9 @@
 <br>
 <div align="center">
 
+<p align="center"><strong>🧾 Formação e Certificações</strong></p>
+
+| <div align="center"></div> |
 |:---:|
 | <strong>TOP 1% Global CTF Player</strong> – TryHackMe |
 | <strong>Pós-graduação em Ethical Hacking</strong> – Faculdade VINCIT |
@@ -68,6 +71,7 @@
 | <strong>Maltego Advanced Course</strong> – Paterva |
 | <strong>Security Information EQ 101</strong> – Brazilian Navy |
 | <strong>WiFi Hacking Enterprise 2.0</strong> – Desec Security |
+
 
 </div>
 
