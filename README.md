@@ -1,29 +1,27 @@
 [//]: # "[![Maarckz]([YOURLINKHERE)](https://github.com/maarckz)"
 
+<!-- TITULO -->
 <div align="center">
-  
   <img src="https://github.com/Maarckz/Maarckz/blob/main/Images/shortname.png"/>
 </div><br>
 
 
-
+<!-- Frase FORK + STAR -->
 <div align="center">
-<p><span style="font-family:verdana,geneva,sans-serif">If you like it, do  <span style="color:#FF0000"><em>fork</em></span> 🍴 and <span style="color:#FF0000"><em>star</em></span> ⭐</span><br />
+  <p><span style="font-family:verdana,geneva,sans-serif">If you like it, do  <span style="color:#FF0000"><em>fork</em></span> 🍴 and <span style="color:#FF0000"><em>star</em></span> ⭐</span><br />
+</div>
 
 
-
-
+<!-- COUNT VISITANTES -->
 <div align="center">
-  
   <img src="https://komarev.com/ghpvc/?username=maarckz&label=Visitantes&color=green&style=for-the-badge" width="100" />
 </div>
 
 
 
 
-
+<!-- GAME SNAKE -->
 <div align="center">
-  
   <img height="180em" src="https://github.com/Maarckz/Maarckz/blob/main/Images/github-contribution-grid-snake.svg"/>
 </div>
 
