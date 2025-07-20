@@ -5,10 +5,7 @@
   <img src="https://github.com/Maarckz/Maarckz/blob/main/Images/shortname.png"/>
 </div><br>
 
-<div align="center">
-   <a href="https://tryhackme.com/p/Maarckz">
-     <img src="https://tryhackme-badges.s3.amazonaws.com/Maarckz.png" alt="Maarckz" />
-</div>
+
 
 <div align="center">
 <p><span style="font-family:verdana,geneva,sans-serif">If you like it, do  <span style="color:#FF0000"><em>fork</em></span> 🍴 and <span style="color:#FF0000"><em>star</em></span> ⭐</span><br />
@@ -38,7 +35,10 @@
 
 </div>
 
-  
+<div align="center">
+   <a href="https://tryhackme.com/p/Maarckz">
+     <img src="https://tryhackme-badges.s3.amazonaws.com/Maarckz.png" alt="Maarckz" />
+</div>
 
 
 <div align="center">
