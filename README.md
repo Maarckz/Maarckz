@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=maarckz&label=Visitantes&color=0e75b6&style=flat" width="80" />
+  <img src="https://komarev.com/ghpvc/?username=maarckz&label=Visitantes&color=0e75b6&style=for-the-badge" width="80" />
 </div>
 
 
