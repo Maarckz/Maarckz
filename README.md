@@ -8,10 +8,24 @@
 <div align="center">
 <img height="180em" src="https://github.com/Maarckz/Maarckz/blob/main/Images/github-contribution-grid-snake.svg"/>
 </div>
+## Tecnologias e linguagens 💻
 
-<div align="center">
-  <a href="https://github.com/maarckz" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarckz&show_icons=true&theme=dark&%20%20include_all_commits=true&count_private=false&layout=compact"/></a> 
-</div>
+[![Skills](https://skillicons.dev/icons?i=html,css,js,c,py,rust,php)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=graphql,selenium,elasticsearch)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=docker,nginx)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=ubuntu,kali,redhat)](https://skillicons.dev)
+
+---
+
+## Ferramentas e programas 🛠️
+
+[![Skills](https://skillicons.dev/icons?i=git,vscode,replit,arduino)](https://skillicons.dev)
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maarckz&left_color=black&right_color=green" width="80" />
