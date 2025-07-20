@@ -5,8 +5,7 @@
 </div>
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=maarckz&color=green&style=for-the-badge)
-  ![Visitors](https://komarev.com/ghpvc/?username=maarckz&label=Visitantes&color=0e75b6&style=flat)
+  <img src="https://komarev.com/ghpvc/?username=maarckz&label=Visitantes&color=0e75b6&style=flat" width="80" />
 </div>
 
 
