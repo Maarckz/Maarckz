@@ -4,6 +4,9 @@
 <img src="https://github.com/Maarckz/Maarckz/blob/main/Images/shortname.png"/>
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maarckz&left_color=black&right_color=green" width="80" />
+</div>
 
 <div align="center">
 <img height="180em" src="https://github.com/Maarckz/Maarckz/blob/main/Images/github-contribution-grid-snake.svg"/>
@@ -17,9 +20,7 @@
 </div>
 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maarckz&left_color=black&right_color=green" width="80" />
-</div>
+
 
 <div align="center">
   
