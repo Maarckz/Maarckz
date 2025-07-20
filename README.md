@@ -40,7 +40,7 @@
 
 <div align="center">
 
-  <img height="160em" src="https://streak-stats.demolab.com?user=Maarckz&theme=tokyonight&border_radius=5&mode=weekly&hide_border=true&locale=pt_BR" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=Maarckz&theme=tokyonight&border_radius=5&mode=weekly&hide_border=true&locale=pt_BR" /><br/>
 
   <img src="https://github-profile-trophy.vercel.app?username=Maarckz&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
 
@@ -74,11 +74,10 @@
 
 
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Perfil-red?logo=tryhackme&style=for-the-badge)](https://tryhackme.com/p/239243)
 
 <div align="center">
    <a href="https://tryhackme.com/p/Maarckz">
-     <img src="https://tryhackme-badges.s3.amazonaws.com/Maarckz.png" alt="Your Image Badge" />
+     <img src="https://tryhackme-badges.s3.amazonaws.com/Maarckz.png" alt="Maarckz" />
 </div>
 
 <div align="center">
@@ -87,7 +86,7 @@
 
 
 
-  <img src="https://streak-stats.demolab.com?user=Maarckz&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+  <img src="https://streak-stats.demolab.com?user=Maarckz&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> 
 
 
 
