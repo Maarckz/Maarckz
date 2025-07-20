@@ -18,7 +18,7 @@
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=maarckz&label=Visitantes&color=0e75b6&style=for-the-badge" width="100" />
+  <img src="https://komarev.com/ghpvc/?username=maarckz&label=Visitantes&color=green&style=for-the-badge" width="100" />
 </div>
 
 
