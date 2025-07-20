@@ -50,8 +50,6 @@
 <br>
 <div align="center">
 
-<p align="center"><strong>🧾 Formação e Certificações</strong></p>
-
 | <div align="center"></div> |
 |:---:|
 | <strong>TOP 1% Global CTF Player</strong> – TryHackMe |
@@ -72,8 +70,8 @@
 | <strong>Security Information EQ 101</strong> – Brazilian Navy |
 | <strong>WiFi Hacking Enterprise 2.0</strong> – Desec Security |
 
-
 </div>
+<br>
 
 <!-- BADGES  -->
 <div align="center">
