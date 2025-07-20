@@ -10,13 +10,10 @@
 </div>
 
 <div align="center">
+  
+[![Skills](https://skillicons.dev/icons?i=html,css,js,c,py,rust,php,graphql,mongodb,postgres,selenium,elasticsearch)]()
 
-## Tecnologias e linguagens 💻
-
-[![Skills](https://skillicons.dev/icons?i=html,css,js,c,py,rust,php,graphql,mongodb,postgres,selenium,elasticsearch)](https://skillicons.dev)
-
-[![Skills](https://skillicons.dev/icons?i=docker,nginx,git,vscode,replit,arduino,ubuntu,kali,redhat,debian,discord)](https://skillicons.dev)
-
+[![Skills](https://skillicons.dev/icons?i=docker,nginx,git,vscode,replit,arduino,ubuntu,kali,redhat,debian,discord)]()
 </div>
 
 
