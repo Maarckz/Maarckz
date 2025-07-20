@@ -25,7 +25,7 @@
   <img height="180em" src="https://github.com/Maarckz/Maarckz/blob/main/Images/github-contribution-grid-snake.svg"/>
 </div>
 
-
+<!-- ICONES  -->
 <div align="center">
   
   [![Skills](https://skillicons.dev/icons?i=html,css,js,c,py,rust,php,graphql,mongodb,postgres,selenium,elasticsearch)]()
@@ -33,12 +33,14 @@
 
 </div>
 
+<!-- TRYHACKME  -->
 <div align="center">
    <a href="https://tryhackme.com/p/Maarckz">
-     <img src="https://tryhackme-badges.s3.amazonaws.com/Maarckz.png" alt="Maarckz" />
+     <img src="https://tryhackme-badges.s3.amazonaws.com/Maarckz.png?update=2" alt="Maarckz" />
 </div>
 
 
+<!-- GRAFICO COMMITS  -->
 <div align="center">
   
   [![](https://github-readme-activity-graph.vercel.app/graph?username=maarckz&theme=github-compact&custom_title=%20&hide_border=true)](https://github.com/Maarckz)
@@ -46,20 +48,18 @@
 </div>
 
 
+<!-- BADGES  -->
 <div align="center">
-
   <img height="160em" src="https://streak-stats.demolab.com?user=Maarckz&theme=tokyonight&border_radius=5&mode=weekly&hide_border=true&locale=pt_BR" /><br/>
-
   <img src="https://github-profile-trophy.vercel.app?username=Maarckz&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
-
 </div>
 
 
 
 
 
-
-<div align="center">
+<!-- TEXTO  -->
+<div align="justify">
   <ul style="list-style-type:none; padding-left:0;">
     <strong>Pós-graduação em Ethical Hacking</strong> – Faculdade VINCIT<br>
     <strong>Pós-graduação em Threat Intelligence e Hunting</strong> – Faculdade VINCIT<br>
