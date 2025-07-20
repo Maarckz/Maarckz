@@ -16,21 +16,23 @@
 </div>
 
 <div align="center">
-  
 [![Skills](https://skillicons.dev/icons?i=html,css,js,c,py,rust,php,graphql,mongodb,postgres,selenium,elasticsearch)]()
-
 [![Skills](https://skillicons.dev/icons?i=docker,nginx,git,vscode,replit,arduino,ubuntu,kali,redhat,debian,discord)]()
 </div>
+
+  
 
 
 
 
 <div align="center">
-  
   [![](https://github-readme-activity-graph.vercel.app/graph?username=maarckz&theme=github-compact&custom_title=%20&hide_border=true)](https://github.com/Maarckz)
-  <div align="center">
+</div>
 
-<img height="160em" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <div align="center">
+<img height="160em" src="https://streak-stats.demolab.com?user=maarckz&theme=tokyonight&hide_border=true&locale=pt_BR" />
+</div>
+  
 
 </div>
   <img src="https://streak-stats.demolab.com?user=maarckz&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
