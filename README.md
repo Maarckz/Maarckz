@@ -3,7 +3,7 @@
 <div align="center">
   
   <img src="https://github.com/Maarckz/Maarckz/blob/main/Images/shortname.png"/>
-</div>
+</div><br>
 
 <div align="center">
    <a href="https://tryhackme.com/p/Maarckz">
@@ -18,7 +18,7 @@
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=maarckz&label=Visitantes&color=purple&style=for-the-badge" width="100" />
+  <img src="https://komarev.com/ghpvc/?username=maarckz&label=Visitantes&color=green&style=for-the-badge" width="100" />
 </div>
 
 
