@@ -49,31 +49,9 @@
 <!-- TEXTO  -->
 <br>
 <div align="center">
-  <ul>
-    <strong>Pós-graduação em Ethical Hacking</strong> – Faculdade VINCIT<br>
-    <strong>Pós-graduação em Threat Intelligence e Hunting</strong> – Faculdade VINCIT<br>
-    <strong>Bacharelado em Defesa Cibernética</strong> – Estácio<br>
-    <strong>Pentest Profissional v2021 - SYCP</strong> – Solyd Offensive Security<br>
-    <strong>Industrial Intrusion</strong> – TryHackMe<br>
-    <strong>Threat Intelligence Analyst</strong> – arcX<br>
-    <strong>Advanced Cyber Threat Intelligence</strong> – CYBRARY<br>
-    <strong>CYSA+ Training Course</strong> – ESR + Ascend<br>
-    <strong>Segurança Defensiva e Resposta a Incidentes</strong> – Faculdade VINCIT<br>
-    <strong>CyberSecurity</strong> – FIAP<br>
-    <strong>Cyber Threat Management</strong> – Cisco<br>
-    <strong>Categorizing Attacks and Failure Modes</strong> – CYBRARY<br>
-    <strong>Ethical Hacker</strong> – Cisco<br>
-    <strong>Maltego Advanced Course</strong> – Paterva<br>
-    <strong>Security Information EQ 101</strong> – Brazilian Navy<br>
-    <strong>WiFi Hacking Enterprise 2.0</strong> – Desec Security<br>
-  </ul>
+ 
 
 
-
-
-## 🧾 Formação e Certificações
-
-| **Curso / Certificação**                                    | **Instituição**                |
 |-------------------------------------------------------------|-------------------------------|
 | Pós-graduação em Ethical Hacking                            | Faculdade VINCIT              |
 | Pós-graduação em Threat Intelligence e Hunting              | Faculdade VINCIT              |
