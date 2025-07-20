@@ -51,7 +51,6 @@
 <div align="center">
 |                                                             |                             |
 |:-----------------------------------------------------------:|:---------------------------:|
-| <strong>Top 1% Global CTF Player</strong>           | TryHackMe          |
 | <strong>Pós-graduação em Ethical Hacking</strong>           | Faculdade VINCIT           |
 | <strong>Pós-graduação em Threat Intelligence e Hunting</strong> | Faculdade VINCIT       |
 | <strong>Bacharelado em Defesa Cibernética</strong>          | Estácio                    |
