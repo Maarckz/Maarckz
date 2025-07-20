@@ -69,6 +69,30 @@
 | <strong>Security Information EQ 101</strong>                | Brazilian Navy             |
 | <strong>WiFi Hacking Enterprise 2.0</strong>                | Desec Security             |
 
+
+
+<p align="center"><strong>🧾 Formação e Certificações</strong></p>
+
+| <div align="center"></div> |
+|:---:|
+| <strong>TOP 1% Global CTF Player</strong> – TryHackMe |
+| <strong>Pós-graduação em Ethical Hacking</strong> – Faculdade VINCIT |
+| <strong>Pós-graduação em Threat Intelligence e Hunting</strong> – Faculdade VINCIT |
+| <strong>Bacharelado em Defesa Cibernética</strong> – Estácio |
+| <strong>Pentest Profissional v2021 - SYCP</strong> – Solyd Offensive Security |
+| <strong>Industrial Intrusion</strong> – TryHackMe |
+| <strong>Threat Intelligence Analyst</strong> – arcX |
+| <strong>Advanced Cyber Threat Intelligence</strong> – CYBRARY |
+| <strong>CYSA+ Training Course</strong> – ESR + Ascend |
+| <strong>Segurança Defensiva e Resposta a Incidentes</strong> – Faculdade VINCIT |
+| <strong>CyberSecurity</strong> – FIAP |
+| <strong>Cyber Threat Management</strong> – Cisco |
+| <strong>Categorizing Attacks and Failure Modes</strong> – CYBRARY |
+| <strong>Ethical Hacker</strong> – Cisco |
+| <strong>Maltego Advanced Course</strong> – Paterva |
+| <strong>Security Information EQ 101</strong> – Brazilian Navy |
+| <strong>WiFi Hacking Enterprise 2.0</strong> – Desec Security |
+
 </div>
 
 <!-- BADGES  -->
