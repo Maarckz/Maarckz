@@ -49,14 +49,15 @@
 <!-- TEXTO  -->
 <br>
 <div align="center">
-
+|                                                             |                             |
 |:-----------------------------------------------------------:|:---------------------------:|
+| <strong>Top 1% - CTF Player</strong>           | TryHackMe           |
 | <strong>Pós-graduação em Ethical Hacking</strong>           | Faculdade VINCIT           |
 | <strong>Pós-graduação em Threat Intelligence e Hunting</strong> | Faculdade VINCIT       |
 | <strong>Bacharelado em Defesa Cibernética</strong>          | Estácio                    |
 | <strong>Pentest Profissional v2021 - SYCP</strong>          | Solyd Offensive Security   |
 | <strong>Industrial Intrusion</strong>                       | TryHackMe                  |
-| <strong>Threat Intelligence Analyst</strong>                | arcX                       |
+| <strong>Threat Intelligence Analyst</strong>                | ArcX                       |
 | <strong>Advanced Cyber Threat Intelligence</strong>         | CYBRARY                    |
 | <strong>CYSA+ Training Course</strong>                      | ESR + Ascend               |
 | <strong>Segurança Defensiva e Resposta a Incidentes</strong>| Faculdade VINCIT           |
