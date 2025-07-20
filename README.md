@@ -67,7 +67,6 @@
     <strong>WiFi Hacking Enterprise 2.0</strong> – Desec Security<br>
   </ul>
 </div>
-<br>
 
 
 <!-- GRAFICO COMMITS  -->
