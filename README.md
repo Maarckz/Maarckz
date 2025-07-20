@@ -49,26 +49,25 @@
 <!-- TEXTO  -->
 <br>
 <div align="center">
- 
 
-
-|-------------------------------------------------------------|-------------------------------|
-| Pós-graduação em Ethical Hacking                            | Faculdade VINCIT              |
-| Pós-graduação em Threat Intelligence e Hunting              | Faculdade VINCIT              |
-| Bacharelado em Defesa Cibernética                          | Estácio                       |
-| Pentest Profissional v2021 - SYCP                           | Solyd Offensive Security      |
-| Industrial Intrusion                                        | TryHackMe                     |
-| Threat Intelligence Analyst                                 | arcX                          |
-| Advanced Cyber Threat Intelligence                          | CYBRARY                       |
-| CYSA+ Training Course                                       | ESR + Ascend                  |
-| Segurança Defensiva e Resposta a Incidentes                | Faculdade VINCIT              |
-| CyberSecurity                                               | FIAP                          |
-| Cyber Threat Management                                     | Cisco                         |
-| Categorizing Attacks and Failure Modes                      | CYBRARY                       |
-| Ethical Hacker                                              | Cisco                         |
-| Maltego Advanced Course                                     | Paterva                       |
-| Security Information EQ 101                                 | Brazilian Navy                |
-| WiFi Hacking Enterprise 2.0                                 | Desec Security                |
+|                                                             |                             |
+|:-----------------------------------------------------------:|:---------------------------:|
+| <strong>Pós-graduação em Ethical Hacking</strong>           | Faculdade VINCIT           |
+| <strong>Pós-graduação em Threat Intelligence e Hunting</strong> | Faculdade VINCIT       |
+| <strong>Bacharelado em Defesa Cibernética</strong>          | Estácio                    |
+| <strong>Pentest Profissional v2021 - SYCP</strong>          | Solyd Offensive Security   |
+| <strong>Industrial Intrusion</strong>                       | TryHackMe                  |
+| <strong>Threat Intelligence Analyst</strong>                | arcX                       |
+| <strong>Advanced Cyber Threat Intelligence</strong>         | CYBRARY                    |
+| <strong>CYSA+ Training Course</strong>                      | ESR + Ascend               |
+| <strong>Segurança Defensiva e Resposta a Incidentes</strong>| Faculdade VINCIT           |
+| <strong>CyberSecurity</strong>                              | FIAP                       |
+| <strong>Cyber Threat Management</strong>                    | Cisco                      |
+| <strong>Categorizing Attacks and Failure Modes</strong>     | CYBRARY                    |
+| <strong>Ethical Hacker</strong>                             | Cisco                      |
+| <strong>Maltego Advanced Course</strong>                    | Paterva                    |
+| <strong>Security Information EQ 101</strong>                | Brazilian Navy             |
+| <strong>WiFi Hacking Enterprise 2.0</strong>                | Desec Security             |
 
 </div>
 
