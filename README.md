@@ -9,6 +9,8 @@
 <img height="180em" src="https://github.com/Maarckz/Maarckz/blob/main/Images/github-contribution-grid-snake.svg"/>
 </div>
 
+<div align="center">
+
 ## Tecnologias e linguagens 💻
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,c,py,rust,php)](https://skillicons.dev)
@@ -21,11 +23,11 @@
 
 [![Skills](https://skillicons.dev/icons?i=ubuntu,kali,redhat,debian,discord)](https://skillicons.dev)
 
----
 
 ## Ferramentas e programas 🛠️
 
 [![Skills](https://skillicons.dev/icons?i=git,vscode,replit,arduino)](https://skillicons.dev)
+</div>
 
 
 <div align="center">
