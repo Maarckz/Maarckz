@@ -5,10 +5,9 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maarckz&left_color=black&right_color=green" width="80" />
+  ![](https://komarev.com/ghpvc/?username=maarckz&color=green&style=for-the-badge)
 </div>
 
-![](https://komarev.com/ghpvc/?username=maarckz&color=green&style=for-the-badge)
 
 <div align="center">
 
