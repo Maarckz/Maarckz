@@ -49,6 +49,7 @@
 <!-- TEXTO  -->
 <br>
 <div align="center">
+
 |                                                             |                             |
 |:-----------------------------------------------------------:|:---------------------------:|
 | <strong>Pós-graduação em Ethical Hacking</strong>           | Faculdade VINCIT           |
@@ -66,7 +67,7 @@
 | <strong>Ethical Hacker</strong>                             | Cisco                      |
 | <strong>Maltego Advanced Course</strong>                    | Paterva                    |
 | <strong>Security Information EQ 101</strong>                | Brazilian Navy             |
-| <strong>WiFi Hacking Enterprise 2.0</strong>                | Desec Security  
+| <strong>WiFi Hacking Enterprise 2.0</strong>                | Desec Security             |
 
 </div>
 
