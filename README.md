@@ -5,7 +5,7 @@
 
 <!-- TITULO -->
 <div align="center">
-  <img width=60% src="https://github.com/Maarckz/Maarckz/blob/main/Images/shortname.png"/>
+  <img width=30% src="https://github.com/Maarckz/Maarckz/blob/main/Images/shortname.png"/>
 </div><br>
 
 
