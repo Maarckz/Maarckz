@@ -42,7 +42,7 @@
 <!-- TRYHACKME  -->
 <div align="center">
    <a href="https://tryhackme.com/p/Maarckz">
-     <img src="https://tryhackme-badges.s3.amazonaws.com/Maarckz.png?update=2" alt="Maarckz" />
+     <img src="https://tryhackme-badges.s3.amazonaws.com/Maarckz.png?update=1" alt="Maarckz" />
 </div>
 
 
