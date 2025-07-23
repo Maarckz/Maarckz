@@ -79,7 +79,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=Maarckz&theme=tokyonight&column=2&row=1&margin-w=5&margin-h=1&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=maarckz&theme=tokyonight&hide_border=true&border_radius=5&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
 
 <!-- GRAFICO COMMITS  -->
 <div align="center">
