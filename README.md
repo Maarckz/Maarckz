@@ -77,7 +77,7 @@
 <div align="center">
   <img height="160em" src="https://streak-stats.demolab.com?user=Maarckz&theme=tokyonight&border_radius=5&mode=weekly&hide_border=true&locale=pt_BR" /><br/>
   <img src="https://github-profile-trophy.vercel.app?username=Maarckz&theme=tokyonight&column=2&row=1&margin-w=5&margin-h=1&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=maarckz&theme=tokyonight&hide_border=true&border_radius=5&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=maarckz&theme=tokyonight&hide_border=true&border_radius=5&locale=pt_BR&mode=weekly" alt="GitHub Streak" />
 </div>
 
 
