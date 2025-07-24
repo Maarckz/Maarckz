@@ -34,7 +34,7 @@
 <!-- ICONES  -->
 <div align="center">
   
-  [![Skills](https://skillicons.dev/icons?i=html,css,js,c,py,rust,php,graphql,mongodb,postgres,selenium,elasticsearch)]()
+  [![Skills](https://skillicons.dev/icons?i=c,py,rust,php,html,css,js,graphql,mongodb,postgres,selenium,elasticsearch)]()
   [![Skills](https://skillicons.dev/icons?i=docker,django,nginx,git,vscode,replit,arduino,ubuntu,kali,redhat,debian,discord)]()
 
 </div>
