@@ -56,6 +56,9 @@
 | <strong>Pós-graduação em Ethical Hacking</strong> – Faculdade VINCIT |
 | <strong>Pós-graduação em Threat Intelligence e Hunting</strong> – Faculdade VINCIT |
 | <strong>Bacharelado em Defesa Cibernética</strong> – Estácio |
+| <strong>Certified Red Team Analyst v2025 (CRTA)</strong> - CyberWarfare |
+| <strong>Certified Red Team Infra Dev v2025 (CRT-ID)</strong> - CyberWarfare |
+| <strong>Certified Cybersecurity Educator Professional (CCEP)</strong> - RedTeamLeaders |
 | <strong>Pentest Profissional v2021 - SYCP</strong> – Solyd Offensive Security |
 | <strong>Industrial Intrusion</strong> – TryHackMe |
 | <strong>Threat Intelligence Analyst</strong> – ArcX |
