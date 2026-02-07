@@ -50,9 +50,7 @@
 <br>
 <div align="center">
 
-| <div align="center"></div> |
-|:---:|
-| | Red Team | Adversary Emulation | Threat Intelligence & Hunting | THM [Top 1%] | DFIR | SOC T2/T3 | |
+| Red Team | Adversary Emulation | Threat Intelligence & Hunting | THM [Top 1%] | DFIR | SOC T2/T3 |
 
 </div>
 <br>
