@@ -64,6 +64,12 @@
 
 <!-- GRAFICO COMMITS  -->
 <div align="center">
+ 
+  [![](https://github-profile-trophy.screw-hand.vercel.app/?username=maarckz&theme=onestar&row=1&column=6&no-bg=true&no-frame=true)]
+(https://github.com/Maarckz)
+
+
+ 
   
   [![](https://github-readme-activity-graph.vercel.app/graph?username=maarckz&theme=github-compact&custom_title=%20&hide_border=true)](https://github.com/Maarckz)
 
