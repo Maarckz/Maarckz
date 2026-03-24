@@ -59,10 +59,10 @@
 <div align="center">
   <img height="160em" src="https://streak-stats.demolab.com/demo/preview.php?user=maarckz&theme=tokyonight&hide_border=true&border_radius=5&locale=pt_BR&mode=weekly" /><br/>
  
-  
+  <br>
+![](https://github-profile-trophy.screw-hand.vercel.app/?username=maarckz&theme=onestar&row=1&column=6&no-bg=true&no-frame=true)
 
 </div> 
-![](https://github-profile-trophy.screw-hand.vercel.app/?username=maarckz&theme=onestar&row=1&column=6&no-bg=true&no-frame=true)
 
 <!-- GRAFICO COMMITS  -->
 <div align="center">
