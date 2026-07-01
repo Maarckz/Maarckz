@@ -47,7 +47,7 @@
 <!-- TEXTO -->
 <div align="center">
 
-| Red Team | Adversary Emulation | Threat Intelligence & Hunting | THM [Top 1%] | DFIR | SOC T2/T3 |
+| Purple Team | Adversary Emulation | Threat Intelligence & Hunting | THM [Top 1%] | DFIR | SOC T2/T3 |
 
 </div>
 
